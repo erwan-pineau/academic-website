@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Erwan Pineau"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Paleoclimate Modeller | Investigating Cenozoic ocean circulation and biogeochemistry"
+  location         : "Aix-en-Provence, France"
+  employer         : "CEREGE"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pineau@cerege.fr" 
 
   # Academic websites
   academia         : # URL
